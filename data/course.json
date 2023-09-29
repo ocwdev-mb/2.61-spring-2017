@@ -1,0 +1,65 @@
+{
+  "term": "Spring",
+  "year": "2017",
+  "level": [
+    "Graduate"
+  ],
+  "topics": [
+    [
+      "Energy",
+      "Combustion"
+    ],
+    [
+      "Energy",
+      "Fossil Fuels"
+    ],
+    [
+      "Energy",
+      "Transportation"
+    ],
+    [
+      "Engineering",
+      "Mechanical Engineering"
+    ],
+    [
+      "Engineering",
+      "Chemical Engineering",
+      "Transport Processes"
+    ],
+    [
+      "Science",
+      "Physics",
+      "Thermodynamics"
+    ]
+  ],
+  "legacy_uid": "f2c5a617-1d4a-a5f8-55c4-a5e0b89aacac",
+  "instructors": {
+    "content": [
+      "789ad34d-05e8-bd9e-f05d-8e03380e710d"
+    ],
+    "website": "ocw-www"
+  },
+  "course_image": {
+    "content": "e2db8a7d-46a3-44f5-225c-442adfd0682a",
+    "website": "2-61-internal-combustion-engines-spring-2017"
+  },
+  "course_title": "Internal Combustion Engines",
+  "course_description": "This course studies the fundamentals of how the design and operation of internal combustion engines affect their performance, efficiency, fuel requirements, and environmental impact. Topics include fluid flow, thermodynamics, combustion, heat transfer and friction phenomena, and fuel properties, with reference to engine power, efficiency, and emissions. Students examine the design features and operating characteristics of different types of internal combustion engines: spark-ignition, diesel, stratified-charge, and mixed-cycle engines. The class includes lab project in the Engine Laboratory.\n",
+  "department_numbers": [
+    "2"
+  ],
+  "extra_course_numbers": "",
+  "primary_course_number": "2.61",
+  "course_image_thumbnail": {
+    "content": "a1f2eecb-fc49-ab28-a8ed-db86ca932fa3",
+    "website": "2-61-internal-combustion-engines-spring-2017"
+  },
+  "learning_resource_types": [
+    "Problem Sets with Solutions",
+    "Exams with Solutions",
+    "Lecture Notes"
+  ],
+  "site_uid": "e5660c62-7521-42a1-9e9d-22ea0a895edd",
+  "site_short_id": "2.61-spring-2017",
+  "title": "Course Metadata"
+}
